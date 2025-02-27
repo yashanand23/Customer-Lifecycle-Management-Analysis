@@ -32,7 +32,7 @@ The dataset consists of user activity records with the following attributes:
 
 ### 3. Architecture
 
-<img src="case-study-architecture.png" alt="Architecture">
+<img src="./images/case-study-architecture.png" alt="Architecture">
 
 The architecture follows the Medallion approach:
 
@@ -101,7 +101,7 @@ The architecture follows the Medallion approach:
 
 - Upsert operations are handled using SCD Type 2 to track historical changes.
 
-<img src="clm-logical-diagram.png">
+<img src="./images/clm-logical-diagram.png">
 
 ### 5. Challenges & Solutions
 
